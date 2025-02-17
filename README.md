@@ -16,8 +16,8 @@ the main questions they’d like to answer:\
 ● Do sales figures vary between geographic regions?
 
 ## Tools used for the project
-● pgAdmin4
-● PostreSQL
+● pgAdmin4\
+● PostreSQL\
 ● Tableau
 
 ## Data Set
